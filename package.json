@@ -1,0 +1,23 @@
+{
+    "name": "koffing",
+    "version": "0.0.1",
+    "description": "Tactically mask your network data by simulating a herd of monkeys",
+    "main": "Koffing.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "cheerio": "^1.0.0-rc.10",
+        "duck-duck-scrape": "^2.1.0",
+        "expect": "^27.0.2",
+        "faker": "^5.5.3",
+        "fastest-levenshtein": "^1.0.12",
+        "gender-detection": "^0.1.0",
+        "ololog": "^1.1.175",
+        "performance-measure": "^1.0.3",
+        "playwright": "^1.12.1",
+        "translate": "^1.2.3"
+    }
+}
