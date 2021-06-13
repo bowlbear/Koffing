@@ -16,7 +16,7 @@ Imitate mode is very useful because it looks at your DNS request history (if set
 
 > The goal of Koffing is to 'polute' your
 > outgoing network metadata to make it annoying
-> for adversaries, to go through your data. It is not used
+> for adversaries to go through your data. It is not used
 > to hide or anonymize you in anyway!
 
 ## License
