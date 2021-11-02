@@ -14,7 +14,7 @@ Koffing is a automated node.js application that is able to simulate internet tra
 
 Imitate mode is very useful because it looks at your DNS request history (if setup correctly) and tries to imitate your network behaviour with ever slightly variations.
 
-> The goal of Koffing is to 'polute' your
+> The goal of Koffing is to 'pollute' your
 > outgoing network metadata to make it annoying
 > for adversaries to go through your data. It is not used
 > to hide or anonymize you in anyway!
