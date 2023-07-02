@@ -1,5 +1,7 @@
 # Koffing
 
+(if you are looking at my github, please keep in mind I had this repo dumped on me. i'd hate if someone thought i worked on this)
+
 [![Koffing](https://i.imgur.com/47ojGzX.png)](https://nodesource.com/products/nsolid)
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
